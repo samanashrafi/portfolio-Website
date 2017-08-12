@@ -1,7 +1,6 @@
 # portfolio-Website
-<p>Farshid Roohi portfolio website<p/>
+## Farshid Roohi portfolio website
 <a href="farshid-roohi.ir">link website</a><br>
-## Display Type Visual Examples 
 
 ----
 ### Screen Shot
