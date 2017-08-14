@@ -216,3 +216,31 @@ body{
     list-style-type: none;
     outline: none;
 }
+
+
+
+.Profile {
+
+            position: fixed;
+               z-index: 5;
+            top: 29px;
+            right: 29px;
+            width: 250px;
+            height: 250px;
+            border-radius: 100%;
+            -webkit-border-radius: 100%;
+            -moz-border-radius: 100%;
+            box-shadow: 0 0 12px 3px #828282;
+            -moz-box-shadow: 0 0 12px 3px #828282;
+            -webkit-box-shadow: 0 0 12px 3px #828282;
+
+
+        }
+        .Profile img{
+            width: 250px;
+            height: 250px;
+            border-radius: 100%;
+            -webkit-border-radius: 100%;
+            -moz-border-radius: 100%;
+            background: transparent url('img/my_image.JPG') no-repeat center top;
+        }
